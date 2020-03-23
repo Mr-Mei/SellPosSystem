@@ -2,14 +2,14 @@
 
 ## 项目效果图
 
-![image]()
+![image](https://github.com/Mr-Mei/SellPosSystem/blob/master/project02.gif)
 
 ## 项目分析
 
 >核心的逻辑部分：
 这个项目主要是实现在线的用户点餐以及对点餐列表商品的增删改查等功能；首先使用mockplus工具画出草图，便于提高开发效率。
 
-![image]()
+![image](https://github.com/Mr-Mei/SellPosSystem/blob/master/project01.png)
 
 >实现的功能：
 >1.点击常用商品，还有下面的有图标的各类商品，会在左侧的点餐页面中出现，并且还会计算相应的数量和金额。
@@ -42,4 +42,4 @@
 ## 说明
 
 >项目中仍有许多需要完善之处，本人能力有限，不足之处望多多包涵！！！欢迎大神下载项目，并进行二次开发。
-（项目地址：http:）
+（项目地址：http:https://github.com/Mr-Mei/SellPosSystem）
