@@ -42,4 +42,4 @@
 ## 说明
 
 >项目中仍有许多需要完善之处，本人能力有限，不足之处望多多包涵！！！欢迎大神下载项目，并进行二次开发。
-（项目地址：http:https://github.com/Mr-Mei/SellPosSystem）
+（项目地址：https://github.com/Mr-Mei/SellPosSystem）
